@@ -1,4 +1,4 @@
-# Human-Robot_interaction_via_Computer_vision
+# Human-Robot_Interaction
 
 ![image](https://github.com/patilabhi20/Human-Robot_interraction_via_Programming/assets/157373320/7be1b9fc-e2cd-47d7-a691-c3a814468052)
 
@@ -34,8 +34,8 @@ To get started, clone the repository and install the necessary dependencies:
 bash
 Copy code
   ```
-git clone https://github.com/yourusername/Human-Robot_interaction_via_Computer_vision.git
-cd Human-Robot_interaction_via_Computer_vision
+git clone https://github.com/yourusername/Human-Robot_Interaction.git
+cd Human-Robot_Interaction
   ```
 * pip install -r requirements.txt
 Ensure you have the required hardware and software configurations as detailed in the documentation.
