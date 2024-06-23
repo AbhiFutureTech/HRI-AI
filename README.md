@@ -1,5 +1,5 @@
-# Human Robot Interaction via Programming
-=========================================
+# Human-Robot_interaction_via_Computer_vision
+
 ![image](https://github.com/patilabhi20/Human-Robot_interraction_via_Programming/assets/157373320/7be1b9fc-e2cd-47d7-a691-c3a814468052)
 
 Welcome to the Human-Robot Interaction via Programming repository! This project aims to develop and showcase various techniques and algorithms for effective interaction between humans and robots through programming.
